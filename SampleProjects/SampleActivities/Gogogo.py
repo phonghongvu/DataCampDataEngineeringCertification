@@ -1,1 +1,0 @@
-print("It is going to be understandable")
